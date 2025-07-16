@@ -1,0 +1,14 @@
+{
+  "name": "promptor",
+  "version": "1.0.0",
+  "main": "promptor_bot.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node promptor_bot.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "node-telegram-bot-api": "^0.61.0",
+    "openai": "^4.30.0"
+  }
+}
